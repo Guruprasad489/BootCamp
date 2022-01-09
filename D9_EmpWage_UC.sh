@@ -1,4 +1,4 @@
 #! /bin/bash -x
 
-echo Welcome to Employee Wage Computation
+echo Welcome to Employee Wage Computation 
 
