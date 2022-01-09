@@ -1,0 +1,207 @@
+  432  git init
+  434  git remote add origin https://github.com/Guruprasad489/BootCamp.git
+  435  git status
+  436  git add Born92_93.sh
+  437  git status
+  438  git commit -m "adding Born92_93"
+  439  git status
+  440  git config --global user.email "guruprasadk.dev@gmail.com"
+  441  git config --global user.name "Guruprasad489"
+  442  git push origin master
+  443  git status
+  444  git commit -m "adding Born92_93"
+  445  git status
+  446  git push origin master
+  449  git init
+  456  git init
+  458  git init
+  459  git add D5/ D6/
+  460  git commit -m "Practice programs"
+  461  git branch -M main
+  462  git remote add origin https://github.com/Guruprasad489/BootCamp.git
+  463  git push -u origin main
+  464  git status
+  465  git init
+  466  git add D5/ D6/
+  467  git commit -m "Practice Programs"
+  468  git branch -M master
+  469  git remote add origin https://github.com/Guruprasad489/BootCamp.git
+  470  git push -u origin master
+  471  grep git
+  472  git --help
+  473  git init
+  474  git add D3/
+  475  git commit -m "Practice"
+  476  git remote add origin https://github.com/Guruprasad489/BootCamp.git
+  477  git add remote origin https://github.com/Guruprasad489/BootCamp.git
+  478  git branch -M master
+  479  git push -u origin master
+  480  git add ../Class/
+  482  git init
+  483  git add Class/
+  484  git commit -m "Class Programs"
+  485  git remote add origin dd ../Class/
+  487  git remote add origin dd ../Class/
+  489  git remote add origin https://github.com/Guruprasad489/BootCamp.git
+  490  git push -u origin master
+  491  git pull maaster
+  492  git pull maaster before pushing again.
+  493  git pull -u origin master
+  494  git init
+  495  git add Class/
+  496  git commit -m "Class programs"
+  497  git status
+  501  git log
+  502  git command --help
+  503  git command -help
+  504  git --help -all
+  505  git help -all
+  506  git help --all
+  507  git add -all
+  508  git add --all
+  509  git status
+  510  git restore --staged --all
+  511  git restore --staged
+  512  git commit -m "Practice programs"
+  513  git push -u origin master
+  514  git push --help
+  515  git remote add origin https://github.com/Guruprasad489/BootCamp.git
+  516  git pull --help
+  517  git fetch -u origin master
+  518  git status
+  519  git pull
+  520  git status 
+  521  git push -u origin master
+  523  git add star.sh
+  524  git status
+  525  git push -u origin master
+  526  git status
+  527  git commit -m "updated input message"
+  528  git push -u origin master
+  529  git fetch star.sh
+  530  git fetch -u origin master
+  531  git pull star.sh
+  532  git pull
+  535  git add star.sh 
+  536  git status 
+  537  git commit -m "added message- git demo "
+  539  git push -u origin master
+  541  git pull
+  542  git status
+  544  git diff
+  547  git status
+  548  git commit -m "added message - GIT DEMO"
+  549  git add star.sh
+  550  git commit -m "added message - GIT DEMO"
+  551  git diff
+  552  git status
+  553  git push -u origin master
+  554  git pull
+  556  git merge
+  557  git commit -m "added message - GIT DEMO"
+  559  git conflict
+  560  git merge
+  561  git add star.sh 
+  562  git merge
+  563  git commit -m "resolved conflict message - GIT DEMO"
+  564  git merge
+  565  git status
+  567  git add star.sh 
+  568  git status
+  569  git push
+  570  git merge
+  571  git status
+  573  git branch Demo
+  574  git branch
+  575  git checkout Demo
+  576  git status 
+  578  git status 
+  579  git commit -m "added message - GIT DEMO branch"
+  581  git checkout master 
+  583  git status
+  584  git pull
+  585  git diff
+  587  git pull
+  589  git pull
+  590  git merge
+  591  git status
+  592  git pull
+  593  git push
+  594  git pull
+  595  git diff
+  596  git pull
+  597  git fetch -u origin master
+  598  git pull
+  599  git push -u origin master
+  601  git status
+  602  git commit -m "Git demo branch"
+  603  git pull
+  604  git add star.sh 
+  605  git commit -m "Git demo branch"
+  606  git pull
+  608  git status
+  609  git diff
+  610  git merge --abort
+  611  git status
+  612  git diff
+  614  git pull
+  615  git diff
+  616  git pull
+  619  git status
+  620  git commit -m "message- Git demo removed"
+  621  git pul
+  622  git pull
+  623  git status
+  625  git commit -m "Updated message git demo removed"
+  626  git merge
+  627  git add star.sh 
+  628  git commit -m "Updated message git demo removed"
+  629  git status 
+  630  git diff
+  632  git status 
+  633  git merge
+  634  git pull
+  636  git status 
+  637  git checkout master 
+  638  git pull
+  639  git diff
+  640  git pull
+  641  git status 
+  642  git pull
+  643  git diff
+  645  git merge
+  646  git status 
+  647  git push -u origin
+  648  git branch Demo
+  649  git checkout Demo 
+  650  git push -u origin
+  651  git push -u origin Demo
+  652  git checkout master 
+  653  git checkout Demo 
+  654  git merge
+  655  git pull
+  656  git push 
+  657  git checkout master 
+  658  git pull
+  659  git diff
+  660  git merge Demo
+  661  git status 
+  662  git commit -m "Practice programs"
+  663  git merge Demo
+  664  git status 
+  665  git diff
+  666  history | nano git_commands.txt
+  668  history | awk '{print $1 "  " $2}' | nano git_commands
+  669  history | git_commands.txt
+  670  history | cat git_commands.txt
+  671  history | touch git_commands.txt
+  672  cat git_commands.txt 
+  673  nano git_commands.txt 
+  674  history | nano git_commands.txt
+  675  git history
+  676  history | grep git
+  677  history | grep git git_commands
+  678  history | grep git | gitcommands
+  679  history | grep git > GIt_commands
+  680  history | grep git | unique > GIt_commands
+  681  history | grep git | uniq > GIt_commands
