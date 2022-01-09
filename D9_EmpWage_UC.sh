@@ -2,7 +2,7 @@
 
 echo Welcome to Employee Wage Computation 
 
-ispresent=$((RANDOM%2))
+ispresent=$((RANDOM%3))
 perHourSalary=20;
 workingHour=0;
 
@@ -14,6 +14,9 @@ workingHour=0;
     then
     echo "Employee is Absent"
     workingHour=8;
+  else
+    echo "Employee is working as part time";
+    workingHour=4;
   fi
 
 salary=$(($perHourSalary * $workingHour));
