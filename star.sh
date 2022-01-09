@@ -1,5 +1,5 @@
 #! /bin/bash -x
-# GIT DEMO
+# GIT DEMO merge
 
 read -p "Enter the number of rows" n
 	for ((i=1;i<=n;i++))
