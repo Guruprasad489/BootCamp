@@ -1,6 +1,6 @@
 #! /bin/bash -x
 
-read -p "Enter the number of rows" n
+read -p "Enter the number of rows of pyramid" n
 	for ((i=1;i<=n;i++))
 	do
 		for ((j=1;j<=i;j++))
