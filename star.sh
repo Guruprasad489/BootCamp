@@ -1,5 +1,5 @@
 #! /bin/bash -x
-
+# git demo
 
 read -p "Enter the number of rows" n
 	for ((i=1;i<=n;i++))
