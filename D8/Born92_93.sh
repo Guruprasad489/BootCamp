@@ -14,7 +14,7 @@ done
 
 for((i=0;i<50;i++))
 do
-
+    
 bornOn=$((RANDOM%24))
 
 echo $bornOn
